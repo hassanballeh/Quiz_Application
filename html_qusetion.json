@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Why We Use <br> Element",
+    "answer1": "To Make Text Bold",
+    "answer2": "To Make Text Italic",
+    "answer3": "To Add Breakline",
+    "answer4": "To Create Horizantal Line",
+    "right answer": "To Add Breakline"
+  },
+  {
+    "title": "Is <img> Element Has Attribute href",
+    "answer1": "Yes",
+    "answer2": "No Its For Anochor Tag <a> ",
+    "answer3": "All Elements Has This Attribute ",
+    "answer4": "Answer 1 And 3 Is Right",
+    "right answer": "No Its For Anochor Tag <a>"
+  },
+  {
+    "title": "How Can We Make Element Text Bold",
+    "answer1": "Putting Inside <b> Tag",
+    "answer2": "Putting Inside <strong> Tag",
+    "answer3": "customaizing It With Font-Wight Property In CSS",
+    "answer4": "All Answer Is Right",
+    "right answer": "All Answer Is Right"
+  },
+  {
+    "title": "What Is The Tag Is Not Exists In HTML",
+    "answer1": "<object>",
+    "answer2": "<basefont>",
+    "answer3": "<abbr>",
+    "answer4": "All Tags Is Exists In HTML",
+    "right answer": "All Tags Is Exists In HTML"
+  },
+  {
+    "title": "How Can Specify Docunent Type Of HTML5 Page",
+    "answer1": "<DOCTYBY html>",
+    "answer2": "<DOCTYBY html5>",
+    "answer3": "<!DOCTYBY html5>",
+    "answer4": "<!DOCTYBY html>",
+    "right answer": "<!DOCTYBY html>"
+  }
+]
